@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-
+```
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -60,15 +60,15 @@ Y= A⊕B
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-
-
+```
+```
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by:DHARMALINGAM S
  RegisterNumber: 212223040037
-
+```
  ## PROGRAM
 ![DE](https://github.com/user-attachments/assets/7c5eb97c-7b34-4599-a7e2-1a0c68b95176)
 
